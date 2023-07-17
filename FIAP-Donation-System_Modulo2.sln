@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIAP-Donation-System_Modulo2", "FIAP-Donation-System_Modulo2\FIAP-Donation-System_Modulo2.csproj", "{D2F4EC9D-8C68-466B-8C2C-19112629A40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2F4EC9D-8C68-466B-8C2C-19112629A40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F4EC9D-8C68-466B-8C2C-19112629A40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F4EC9D-8C68-466B-8C2C-19112629A40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F4EC9D-8C68-466B-8C2C-19112629A40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A701406-6804-4876-A4AD-F102FD7F8F2B}
+	EndGlobalSection
+EndGlobal
